@@ -1,0 +1,9 @@
+/.idea/.gitignore
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/pom.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/redis-examples.iml
+/.idea/thriftCompiler.xml
+/.idea/vcs.xml
